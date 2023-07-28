@@ -1,4 +1,4 @@
-module first-project/21-pacotes-modules
+module 21-pacotes-modules
 
 go 1.20
 

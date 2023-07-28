@@ -1,7 +1,7 @@
 package main
 
 import (
-	"first-project/21-pacotes-modules/matematica"
+	"21-pacotes-modules/matematica"
 	"fmt"
 
 	"github.com/google/uuid"
