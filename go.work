@@ -6,4 +6,5 @@ use (
 	./21-pacotes-modules
 	./34-db-mysql
 	./35-packaging/cmd
+	./36-testing/1-testing-basic
 )
