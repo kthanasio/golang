@@ -1,9 +1,10 @@
 package controller
 
 import (
-	"28-buscaCEP-API/service"
 	"encoding/json"
 	"net/http"
+
+	"github.com/kthanasio/golang/cep/service"
 )
 
 // CEPController will handle new requests

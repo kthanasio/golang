@@ -1,10 +1,11 @@
 package service
 
 import (
-	"28-buscaCEP-API/model"
 	"encoding/json"
 	"io"
 	"net/http"
+
+	"github.com/kthanasio/golang/cep/model"
 )
 
 // CEPService will call an external API to ge data

@@ -2,11 +2,15 @@
 package main
 
 import (
-	"28-buscaCEP-API/controller"
 	"net/http"
+
+	"github.com/kthanasio/golang/cep/controller"
 )
 
 func main() {
 	http.HandleFunc("/", controller.CEPController)
-	http.ListenAndServe(":8080", nil)
+	err := http.ListenAndServe(":8080", nil)
+	if err != nil {
+		panic(err)
+	}
 }
