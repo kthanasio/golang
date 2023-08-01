@@ -8,4 +8,5 @@ use (
 	./35-packaging/cmd
 	./36-testing/1-testing-basic
 	./36-testing/2-testing-testify
+	./37-APIS
 )
