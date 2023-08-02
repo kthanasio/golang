@@ -40,4 +40,5 @@ func Test_ValidatePassword(t *testing.T) {
 	assert.Nil(t, u)
 	assert.NotNil(t, err)
 	assert.EqualError(t, err, "bcrypt: password length exceeds 72 bytes")
+
 }

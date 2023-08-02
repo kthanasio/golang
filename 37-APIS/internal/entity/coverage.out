@@ -1,4 +1,14 @@
 mode: set
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:23.63,31.16 3 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:31.16,33.3 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:34.2,34.22 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:37.36,38.18 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:38.18,40.3 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:41.2,41.18 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:41.18,43.3 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:44.2,44.17 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:44.17,46.3 1 1
+github.com/kthanasio/golang/37-APIS/internal/entity/product.go:47.2,47.12 1 1
 github.com/kthanasio/golang/37-APIS/internal/entity/user.go:17.59,19.16 2 1
 github.com/kthanasio/golang/37-APIS/internal/entity/user.go:19.16,21.3 1 1
 github.com/kthanasio/golang/37-APIS/internal/entity/user.go:22.2,27.8 1 1

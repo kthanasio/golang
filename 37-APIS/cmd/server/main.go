@@ -29,5 +29,11 @@ func main() {
 		panic(err)
 	}
 	fmt.Printf("%v\n", validID)
+	// -----
 
+	camiseta, err := entity.NewProduct("Camiseta", 99.99)
+	if err != nil {
+		panic(err)
+	}
+	fmt.Printf("%+v\n", camiseta)
 }

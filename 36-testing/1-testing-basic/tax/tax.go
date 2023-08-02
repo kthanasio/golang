@@ -13,7 +13,7 @@ func CalculateTax(amount float64) float64 {
 }
 
 func CalculateTax2(amount float64) float64 {
-	time.Sleep(time.Millisecond)
+	time.Sleep(time.Nanosecond)
 	if amount == 0 {
 		return 0
 	}
